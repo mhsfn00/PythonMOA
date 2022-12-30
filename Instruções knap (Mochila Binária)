@@ -1,0 +1,5 @@
+Para executar o código:
+  python3 knapH.py knap200i1008w.txt
+  
+ Segundo argumento da chamada é o arquivo de instâncias. 
+Lembrar de usar arquivos com o mesmo formato do exemplo fornecido.
