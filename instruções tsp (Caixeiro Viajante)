@@ -1,0 +1,6 @@
+Para executar o código:
+  python3 tspH.py tsp144nodes.txt
+  
+ Segundo argumento da chamada é o arquivo de instâncias. 
+Lembrar de usar arquivos com o mesmo formato do exemplo fornecido.
+ Terceiro argumento (Opcional) para alterar o limite de recursão para 10000.
